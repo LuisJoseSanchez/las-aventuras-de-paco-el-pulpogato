@@ -14,15 +14,4 @@ Aprendiendo aprendiendo, a base de prueba y error, Paco El Pulpogato program贸 e
 
 El maravilloso Amstrad no solo ten铆a buenos gr谩ficos, tambi茅n gozaba de un sonido espectacular y eso hab铆a que aprovecharlo. As铆 que, como Paco El Pulpogato cada vez programaba mejor en BASIC, decidi贸 crear un sintetizador 隆Dicho y hecho! Cre贸 un programa que hac铆a las veces de piano electr贸nico; unas teclas serv铆an para tocar las notas y otras, en cambio, para seleccionar los sonidos entre una amplia gama.
 
-As铆 fue como Paco El Pulpogato aprendi贸 a programar.# Las Aventuras de Paco El Pulpogato
-
-## Introducci贸n
-
-Aqu铆 se narran las asombrosas aventuras y desventuras del ser colaborativo festivo Paco El Pulpogato. Es胹 invitado a contribuir al relato haciendo *pull request*.
-
-## C胢o Paco El Pulpogato aprendi贸a programar
-
-Aquella ma胊na de primavera, Paco El Pulpogato no pod铆a dormir 胹 de la emoci贸n. Se levant temprano
-
-
-[Retro Ordenadores Orty](https://retroordenadoresorty.blogspot.com.es/p/amstrad.html)
+As铆 fue como Paco El Pulpogato aprendi贸 a programar.
