@@ -1,5 +1,3 @@
-# Las Aventuras de Paco El Pulpogato
-
 ## Introducción
 
 Aquí se narran las asombrosas aventuras y desventuras del ser colaborativo festivo Paco El Pulpogato. Estás invitado a contribuir al relato haciendo *pull request*.
@@ -15,3 +13,7 @@ Aprendiendo aprendiendo, a base de prueba y error, Paco El Pulpogato programó e
 El maravilloso Amstrad no solo tenía buenos gráficos, también gozaba de un sonido espectacular y eso había que aprovecharlo. Así que, como Paco El Pulpogato cada vez programaba mejor en BASIC, decidió crear un sintetizador ¡Dicho y hecho! Creó un programa que hacía las veces de piano electrónico; unas teclas servían para tocar las notas y otras, en cambio, para seleccionar los sonidos entre una amplia gama.
 
 Así fue como Paco El Pulpogato aprendió a programar.
+
+## Teclas alucinógenas.
+
+Una noche, Paco El Pulpogato había pasado muchas horas jugando sin descanso con su Amstrad y descubrió que cada vez que tocaba la tecla `MAYS` la máquina le preguntaba en voz alta: "Oye, Paco, ¿sabes qué hora es?", y cuando le daba a la tecla `CONTROL`, la máquina le gastaba bromas, exclamando: "¡Paco El Pulpogato es más gato que pulpo, por lo que le gusta pasar las noches sin dormir!".
