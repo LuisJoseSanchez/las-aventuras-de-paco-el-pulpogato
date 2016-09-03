@@ -16,4 +16,4 @@ Así fue como Paco El Pulpogato aprendió a programar.
 
 ## Teclas alucinógenas.
 
-Una noche, Paco El Pulpogato había pasado muchas horas jugando sin descanso con su Amstrad y descubrió que cada vez que tocaba la tecla `MAYS` la máquina le preguntaba en voz alta: "Oye, Paco, ¿sabes qué hora es?", y cuando le daba a la tecla `CONTROL`, la máquina le gastaba bromas, exclamando: "¡Paco El Pulpogato es más gato que pulpo, por lo que le gusta pasar las noches sin dormir!".
+Una noche, Paco El Pulpogato había pasado muchas horas jugando sin descanso con su Amstrad y descubrió que cada vez que tocaba la tecla `MAYS` la máquina le preguntaba en voz alta: "Oye, Paco, ¿sabes qué hora es?", y cuando le daba a la tecla `CONTROL`, la máquina le gastaba bromas, exclamando: "¡Paco El Pulpogato es más gato que pulpo, por lo que le gusta pasar las noches sin dormir!". Vio la cara de un gato muy cansado y entendió que su Amstrad tenía razón: el jugador necesitaba descansar. "¡Qué máquina tan maravillosa tengo!" - pensó Paco El Pulpogato acomodándose en su cama para conciliar el sueño.
