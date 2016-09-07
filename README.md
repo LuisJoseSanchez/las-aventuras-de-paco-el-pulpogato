@@ -1,6 +1,6 @@
 ## Introducción
 
-Aquí se narran las asombrosas aventuras y desventuras del ser colaborativo festivo Paco El Pulpogato. Estás invitado a contribuir al relato haciendo *pull request*.
+Aquí se narran las asombrosas aventuras y desventuras del ser colaborativo festivo Paco El Pulpogato. Estás invitado a contribuir al relato haciendo *pull request* (en el libro [Git y GitHub - Guía de Supervivencia](https://leanpub.com/gitygithub) se explica en detalle cómo hacerlo).
 
 ## Cómo Paco El Pulpogato aprendió a programar
 
