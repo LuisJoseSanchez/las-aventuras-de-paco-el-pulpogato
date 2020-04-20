@@ -25,3 +25,5 @@ Paco El Pulpogato estaba emocionado con todo lo que aprendía, pero sentía que 
 Contactó con su amigo, *Coro El PerroLoro*, que siempre era buena compañía. Le contó sus tribulaciones y éste le dijo hazme un `COPY`de tu programa. Por supuesto, Paco El Pulpogato sólo sabía hacer eso copiando su programa a una cinta de cassette y, dicho y hecho, grabó la cinta y se la pasó a Coro El PerroLoro.
 
 Tras varios días de trabajo, Coro El PerroLoro devolvió a Paco El Pulpogato su cinta con el programa modificado ¿Era maravilloso! Allí donde Paco El Pulpogato se había quedado atascado, su amigo había tenido nuevas ideas. No fue fácil fusionar las novedades de Coro El PerroLoro con las nuevas funcionalidades que Paco El Pulpogato había ido creando por su cuenta, porque en aquella época aún no existían programas como **git**, pero con paciencia y una impresora térmica para poder imprimir y comparar los programas todo se solucionó.
+
+Y además, Paco El Pulpogato y Coro El PerroLoro se dieron cuenta de que podían trabajar en un programa que simplificase el trabajo de programación en grupo. Pero esa es otra historia...
