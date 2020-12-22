@@ -17,3 +17,8 @@ Así fue como Paco El Pulpogato aprendió a programar.
 ## Teclas alucinógenas.
 
 Una noche, Paco El Pulpogato había pasado muchas horas jugando sin descanso con su Amstrad y descubrió que cada vez que tocaba la tecla `MAYS` la máquina le preguntaba en voz alta: "Oye, Paco, ¿sabes qué hora es?", y cuando le daba a la tecla `CONTROL`, la máquina le gastaba bromas, exclamando: "¡Paco El Pulpogato es más gato que pulpo, por lo que le gusta pasar las noches sin dormir!". Vio la cara de un gato muy cansado y entendió que su Amstrad tenía razón: el jugador necesitaba descansar. "¡Qué máquina tan maravillosa tengo!" - pensó Paco El Pulpogato acomodándose en su cama para conciliar el sueño.
+
+## Historia de Mateo.
+
+Pero Paco El Pulpogato no podía dormir, se despertó y algo le llevo a mirar en la caja del PC, vio una caja con una carátula que ponía Abu Simbel Profanation, :bowtie:. La abrió y había una especie de diskette, el cual introdujo en la ranura del PC. Y o sorpresa, era un juego de plataformas, y se pudo a jugar toda la noche. 
+El día siguiente, en el colegio se preguntó como se hacían los juegos, le pregunto al profesor de matemáticas, el cual le dijo que se hacía programando. El profesor le pregunto si quería, fuera de las horas de clase, podía ir a un curso que daba el de BASIC. Todo ilusionado se lo pregunto a sus padres. Poco a poco, en ese curso, descubrió lo que quería ser de mayor... PROGRAMADOR. :smiley:
