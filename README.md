@@ -17,3 +17,8 @@ Así fue como Paco El Pulpogato aprendió a programar.
 ## Teclas alucinógenas.
 
 Una noche, Paco El Pulpogato había pasado muchas horas jugando sin descanso con su Amstrad y descubrió que cada vez que tocaba la tecla `MAYS` la máquina le preguntaba en voz alta: "Oye, Paco, ¿sabes qué hora es?", y cuando le daba a la tecla `CONTROL`, la máquina le gastaba bromas, exclamando: "¡Paco El Pulpogato es más gato que pulpo, por lo que le gusta pasar las noches sin dormir!". Vio la cara de un gato muy cansado y entendió que su Amstrad tenía razón: el jugador necesitaba descansar. "¡Qué máquina tan maravillosa tengo!" - pensó Paco El Pulpogato acomodándose en su cama para conciliar el sueño.
+
+## Pantalla mágica.
+
+La noche siguiente, ya de madrugada, Paco el Pulpogato vuelve a encender su Amstrad. Al arrancar, aparece en el monitor el mensaje "Acércate a la pantalla, no tengas miedo...", por lo que Paco adelanta la cabeza y ve otro mensaje "más cerca, acercate más...", y cuando la nariz de Paco toca el cristal curvo del monitor, se da cuenta de que está entrando en su interior, que está oscuro y ve cómo un rayo de luz se dirige hacia sus ojos. Se da cuenta que es el haz de rayos catódicos que recorre el interior de la pantalla, para formar las imágenes que vemos desde el exterior. Con su mano puede desviar el rayo de luz y escribir en la pantalla lo que quiere, frases como "Hola caracola" y también puede dibujar de forma fácil esos triángulos que siempre aparecen en los ejercicios de los libros para aprender a programar.
+
